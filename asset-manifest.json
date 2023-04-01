@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CustomerUI/static/css/main.fba48e14.css",
+    "main.js": "/CustomerUI/static/js/main.ac2ae5d0.js",
+    "index.html": "/CustomerUI/index.html",
+    "main.fba48e14.css.map": "/CustomerUI/static/css/main.fba48e14.css.map",
+    "main.ac2ae5d0.js.map": "/CustomerUI/static/js/main.ac2ae5d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fba48e14.css",
+    "static/js/main.ac2ae5d0.js"
+  ]
+}
